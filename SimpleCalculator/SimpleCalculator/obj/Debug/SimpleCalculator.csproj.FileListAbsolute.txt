@@ -1,0 +1,16 @@
+E:\Cit 195\Simple-Game week\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+E:\Cit 195\Simple-Game week\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+E:\Cit 195\Simple-Game week\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+E:\Cit 195\Simple-Game week\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+E:\Cit 195\Simple-Game week\SimpleCalculator\SimpleCalculator\obj\Debug\CalculatorWindow.g.cs
+E:\Cit 195\Simple-Game week\SimpleCalculator\SimpleCalculator\obj\Debug\App.g.cs
+E:\Cit 195\Simple-Game week\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator_MarkupCompile.cache
+E:\Cit 195\Simple-Game week\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator_MarkupCompile.lref
+E:\Cit 195\Simple-Game week\SimpleCalculator\SimpleCalculator\obj\Debug\CalculatorWindow.baml
+E:\Cit 195\Simple-Game week\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.g.resources
+E:\Cit 195\Simple-Game week\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+E:\Cit 195\Simple-Game week\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+E:\Cit 195\Simple-Game week\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+E:\Cit 195\Simple-Game week\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+E:\Cit 195\Simple-Game week\SimpleCalculator\SimpleCalculator\obj\Debug\HelpWindow.g.cs
+E:\Cit 195\Simple-Game week\SimpleCalculator\SimpleCalculator\obj\Debug\HelpWindow.baml
